@@ -1,3 +1,5 @@
+<p align="center"> <img src="https://i.postimg.cc/J0sfmQyQ/NPC-MEDIC.png" alt="Wizard NPC Medic Header" width="100%"> </p>
+
 # Wizard NPC Medic
 
 ### Overview
