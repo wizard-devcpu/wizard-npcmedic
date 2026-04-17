@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://i.postimg.cc/J0sfmQyQ/NPC-MEDIC.png" alt="Wizard NPC Medic Header" width="100%"> </p>
+<img width="1920" height="1080" alt="NPC MEDIC" src="https://github.com/user-attachments/assets/6f9ba5e3-68da-4f5a-927e-8daf029aac7f" />
 
 # Wizard NPC Medic
 
